@@ -1,6 +1,6 @@
 {
   "name": "enb-smart-copy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ENB-tech for coping builded files into another directory",
   "main": "tech/smart-copy.js",
   "scripts": {
